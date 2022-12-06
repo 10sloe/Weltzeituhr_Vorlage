@@ -1,14 +1,14 @@
 class Uhr
 {
-  private int stunden;
-  private int minuten;
-  private int sekunden;
+  int stunden;
+  int minuten;
+  int sekunden;
 
-  private int x;
-  private int y;
+  int x;
+  int y;
 
-  private String ort;
-  private int radius;
+  String ort;
+  int radius;
 
   Uhr()
   {
